@@ -1,6 +1,6 @@
 [![STM32 USB CDC Servo Control from Qt App - Youtube](./cover.jpg)](https://www.youtube.com/watch?v=Z_zT6ZBXQdI)
 
-# STM32 USB_CDC Servo Control from Qt App
+# STM32 USB CDC Servo Control from Qt App
 
 ###How to...
 1. Connect modules as shown on "Connection.png"
