@@ -9,6 +9,7 @@
 4. Servo continiously updates position to selected degree
 
 :grey_exclamation:USB device detected by Vendor ID and Product ID
+
 :grey_exclamation:PC Binaries built for Linux AMD64 but you can build it for any other platform with QtCreator
 
 ###Project demo Video/Photo
