@@ -1,4 +1,4 @@
-[![STM32 USB CDC Servo Control from Qt App - Youtube](./cover.jpg)](https://www.youtube.com/watch?v=Z_zT6ZBXQdI)
+[![STM32 USB CDC Servo Control from Qt App - Youtube](./cover.jpg)](https://www.youtube.com/watch?v=ZbzctbtXEos)
 
 # STM32 USB CDC Servo Control from Qt App
 
@@ -13,5 +13,5 @@
 :grey_exclamation:PC Binaries built for Linux AMD64 but you can build it for any other platform with QtCreator
 
 ###Project demo Video/Photo
-- YouTube demo video URL: https://www.youtube.com/watch?v=Z_zT6ZBXQdI
+- YouTube demo video URL: https://www.youtube.com/watch?v=ZbzctbtXEos
 - Yandex Disk folder URL: https://yadi.sk/d/m7c2OU8C33pRzm
