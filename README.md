@@ -1,4 +1,7 @@
 [![STM32 USB CDC Servo Control from Qt App - Youtube](./cover.jpg)](https://www.youtube.com/watch?v=ZbzctbtXEos)
+
+# STM32 USB CDC Servo Control from Qt App
+
 ###How to...
 1. Connect modules as shown on "Connection.png"
 2. Flash firmware into MCU
