@@ -10,7 +10,7 @@
 
 :grey_exclamation:USB device detected by Vendor ID and Product ID
 
-:grey_exclamation:PC Binaries built for Linux AMD64 but you can build it for any other platform with QtCreator
+:grey_exclamation:PC Binaries built for Linux AMD64, but you can build it for any other platform with QtCreator
 
 ###Project demo Video/Photo
 - YouTube demo video URL: https://www.youtube.com/watch?v=ZbzctbtXEos
